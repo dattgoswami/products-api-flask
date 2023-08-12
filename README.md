@@ -31,7 +31,7 @@ Before running the application, ensure you have [Python](https://www.python.org/
 You can run the application using the following command:
 
 ```bash
-python3 <filename>.py
+python3 products_api.py
 ```
 
 Once the application is running, it will be accessible at `http://127.0.0.1:5000`.
