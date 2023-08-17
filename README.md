@@ -54,7 +54,7 @@ Once the application is running, it will be accessible at `http://127.0.0.1:5000
 
 - **Endpoint:** `/items`
 - **Method:** `POST`
-- **Body:** JSON object with the fields `name`, `price`, `url`, and `description`.
+- **Body:** JSON object with the fields `id`, `name`, `price`, `url`, and `description`.
 - **Response:** The newly added item or an error message if the item format is invalid.
 
 ### Update Item
